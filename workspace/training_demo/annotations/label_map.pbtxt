@@ -1,0 +1,19 @@
+item {
+      id: 1
+      name: 'cuadrado'
+}
+
+item {
+      id: 2
+      name: 'triangulo'
+}
+
+item {
+      id: 3
+      name: 'rectangulo'
+}
+
+item {
+      id: 4
+      name: 'circulo'
+}

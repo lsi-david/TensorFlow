@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cuadrado-04.jpg</filename>
+	<path>C:\Users\david\Desktop\TensorFlow\addons\workspace\training_demo\images\train\cuadrado-04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cuadrado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>51</ymin>
+			<xmax>275</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

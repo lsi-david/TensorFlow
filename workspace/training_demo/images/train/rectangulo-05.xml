@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>rectangulo-05.jpg</filename>
+	<path>C:\Users\david\Desktop\TensorFlow\addons\workspace\training_demo\images\train\rectangulo-05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>341</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rectangulo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>21</ymin>
+			<xmax>263</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
